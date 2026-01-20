@@ -1,0 +1,5 @@
+{
+  "name": "GeminiLens: Flutter AI Asset Manager",
+  "description": "Flutter-based digital asset management using Clean Architecture and Gemini 3.",
+  "requestFramePermissions": []
+}
